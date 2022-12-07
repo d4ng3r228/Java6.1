@@ -11,7 +11,7 @@ public class Calculator {
     public double add(double left, double right) {
         double result;
         return result = left + right;
-
+        //test
     }
 
     public double minus(double left, double right) {
