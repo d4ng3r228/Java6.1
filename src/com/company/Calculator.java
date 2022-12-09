@@ -3,6 +3,7 @@ package com.company;
 import java.util.*;
 
 public class Calculator {
+
     Scanner scanner = new Scanner(System.in);
 
     List<Double> numbers = new ArrayList<>();
